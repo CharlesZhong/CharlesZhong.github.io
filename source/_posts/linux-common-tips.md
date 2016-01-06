@@ -1,7 +1,7 @@
 ---
 title: linux_common_tips
 date: 2016-01-07 03:22:58
-tags: Linux, Shell, 
+tags: Linux
 ---
 
 #1 mkdir
