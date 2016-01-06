@@ -1650,6 +1650,7 @@
 {"name":"hexo","hostname":"zx.local","pid":19452,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-01-06T19:30:39.563Z","v":0}
 {"name":"hexo","hostname":"zx.local","pid":19452,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-01-06T19:30:39.563Z","v":0}
 {"name":"hexo","hostname":"zx.local","pid":19452,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-01-06T19:30:39.566Z","v":0}
+<<<<<<< HEAD
 {"name":"hexo","hostname":"zx.local","pid":19452,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-01-06T19:33:18.170Z","v":0}
 {"name":"hexo","hostname":"zx.local","pid":19452,"level":20,"msg":"Updated: \u001b[35msource/_posts/linux-common-tips.md\u001b[39m","time":"2016-01-06T19:37:52.257Z","v":0}
 {"name":"hexo","hostname":"zx.local","pid":19452,"level":20,"msg":"Processed: \u001b[35m_posts/linux-common-tips.md\u001b[39m","time":"2016-01-06T19:37:52.362Z","v":0}
@@ -1660,3 +1661,5 @@
 {"name":"hexo","hostname":"zx.local","pid":19452,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-01-06T19:37:52.386Z","v":0}
 {"name":"hexo","hostname":"zx.local","pid":19452,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-01-06T19:37:52.386Z","v":0}
 {"name":"hexo","hostname":"zx.local","pid":19452,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-01-06T19:37:52.389Z","v":0}
+=======
+>>>>>>> a889e061beb040a8c1ffa23ca7269ce972276d65

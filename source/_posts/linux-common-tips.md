@@ -1,7 +1,11 @@
 ---
 title: linux_common_tips
 date: 2016-01-07 03:22:58
+<<<<<<< HEAD
 tags: Linux
+=======
+tags: Linux, Shell, 
+>>>>>>> a889e061beb040a8c1ffa23ca7269ce972276d65
 ---
 
 #1 mkdir
